@@ -1,0 +1,1 @@
+### Projeto desenvolvido durante o segundo período da faculdade, com o intuito de calcular o tempo utilizado pelos algoritmos bubble, selection e insertion sort, em casos distintos , para fazer a comparação e definir seus piores e melhores casos, com o intuito de determinar qual seria o melhor algoritmo.
